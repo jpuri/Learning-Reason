@@ -1,0 +1,3 @@
+Learning reason language:
+
+- Destructuring
