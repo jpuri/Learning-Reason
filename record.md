@@ -52,5 +52,16 @@ let age = 20;
 const somePerson = {name: "John", age};
 ```
 
+- Adding mutable field to record
+
+```
+type person = {
+  name: string,
+  mutable age: int
+};
+let baby = {name: "baby", age: 5}
+baby.age = baby.age + 1;
+```
+
 - Record types are found by field name and cause unexpected results.
 - Mandatory type declaration makes error detection and refactoring easy.
