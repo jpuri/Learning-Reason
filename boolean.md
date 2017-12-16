@@ -11,4 +11,3 @@
   7. `!=` physical inequality
   8. `!==` referential unequality
 - BuckleScript provides binding to JS true/false but its different fron true/false in oCaml.
-
