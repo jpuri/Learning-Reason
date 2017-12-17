@@ -6,3 +6,4 @@ Learning reason language:
 - [Type](https://github.com/jpuri/Learning-Reason/blob/master/type.md)
 - [Boolean](https://github.com/jpuri/Learning-Reason/blob/master/boolean.md)
 - [JSX](https://github.com/jpuri/Learning-Reason/blob/master/jsx.md)
+- [List & Array](https://github.com/jpuri/Learning-Reason/blob/master/list&array.md)
