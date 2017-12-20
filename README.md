@@ -8,3 +8,6 @@ Learning reason language:
 - [JSX](https://github.com/jpuri/Learning-Reason/blob/master/jsx.md)
 - [List & Array](https://github.com/jpuri/Learning-Reason/blob/master/list&array.md)
 - [Functions](https://github.com/jpuri/Learning-Reason/blob/master/functions.md)
+- [Module](https://github.com/jpuri/Learning-Reason/blob/master/module.md)
+- [Integer & Float](https://github.com/jpuri/Learning-Reason/blob/master/integer&float.md)
+- [Variant](https://github.com/jpuri/Learning-Reason/blob/master/variant.md)
