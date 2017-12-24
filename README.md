@@ -1,4 +1,4 @@
-Learning reason language:
+# Learning reason language:
 
 - [Destructuring](https://github.com/jpuri/Learning-Reason/blob/master/destructuring.md)
 - [Record](https://github.com/jpuri/Learning-Reason/blob/master/record.md)
@@ -11,3 +11,7 @@ Learning reason language:
 - [Module](https://github.com/jpuri/Learning-Reason/blob/master/module.md)
 - [Integer & Float](https://github.com/jpuri/Learning-Reason/blob/master/integer&float.md)
 - [Variant](https://github.com/jpuri/Learning-Reason/blob/master/variant.md)
+- [Let Binding](https://github.com/jpuri/Learning-Reason/blob/master/letbinding.md)
+- [If Else](https://github.com/jpuri/Learning-Reason/blob/master/ifelse.md)
+- [Pattern Matching](https://github.com/jpuri/Learning-Reason/blob/master/patternmatching.md)
+- [Imperative Loops](https://github.com/jpuri/Learning-Reason/blob/master/imperativeloops.md)
