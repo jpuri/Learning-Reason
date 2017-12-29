@@ -16,3 +16,5 @@
 - [Pattern Matching](https://github.com/jpuri/Learning-Reason/blob/master/patternmatching.md)
 - [Imperative Loops](https://github.com/jpuri/Learning-Reason/blob/master/imperativeloops.md)
 - [Exception](https://github.com/jpuri/Learning-Reason/blob/master/exception.md)
+- [Object](https://github.com/jpuri/Learning-Reason/blob/master/object.md)
+- [Overview](https://github.com/jpuri/Learning-Reason/blob/master/overview.md)
