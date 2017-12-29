@@ -15,3 +15,4 @@
 - [If Else](https://github.com/jpuri/Learning-Reason/blob/master/ifelse.md)
 - [Pattern Matching](https://github.com/jpuri/Learning-Reason/blob/master/patternmatching.md)
 - [Imperative Loops](https://github.com/jpuri/Learning-Reason/blob/master/imperativeloops.md)
+- [Exception](https://github.com/jpuri/Learning-Reason/blob/master/exception.md)
