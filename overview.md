@@ -1,5 +1,7 @@
 # Overview
 
+Primitive | Example
+---------------------------- | ----------------------------
 Strings | "Hello"
 Characters | 'x'
 Integers | 23, -23
