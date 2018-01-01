@@ -18,3 +18,5 @@
 - [Exception](https://github.com/jpuri/Learning-Reason/blob/master/exception.md)
 - [Object](https://github.com/jpuri/Learning-Reason/blob/master/object.md)
 - [Overview](https://github.com/jpuri/Learning-Reason/blob/master/overview.md)
+- [External](https://github.com/jpuri/Learning-Reason/blob/master/external.md)
+- [String & Char](https://github.com/jpuri/Learning-Reason/blob/master/string&char.md)
